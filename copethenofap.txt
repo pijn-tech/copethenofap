@@ -7,3 +7,4 @@
 # AD SERVERS START HERE
 #
 127.0.0.1	https://www.cumlouder.com/
+::1       https://www.cumlouder.com/
