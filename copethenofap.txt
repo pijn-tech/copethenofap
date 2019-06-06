@@ -18,16 +18,14 @@
 ::1         https://www.porndish.com/        
 127.0.0.1   www.pornhub.com/
 ::1         www.pornhub.com/
-127.0.0.1   https://www.porndish.com/  
-::1         https://www.porndish.com/       
+127.0.0.1   www.porndish.com/  
+::1         www.porndish.com/       
 127.0.0.1   es.spankbang.com/
 ::1         es.spankbang.com/
-127.0.0.1   www.pornhub.com/
-::1         www.pornhub.com/
 127.0.0.1   hqporner.com/
 ::1         hqporner.com/
-127.0.0.1   https://xxxstreams.eu/
-::1         https://xxxstreams.eu/
+127.0.0.1   xxxstreams.eu/
+::1         xxxstreams.eu/
 127.0.0.1  
 ::1         
 127.0.0.1   
