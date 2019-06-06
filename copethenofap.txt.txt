@@ -1,9 +1,0 @@
-# Healing me
-# This file will NOT protect you against malicious domains
-#
-127.0.0.1 localhost #IPv4 localhost
-::1 localhost #IPv6 localhost
-#copethenofap
-# AD SERVERS START HERE
-#
-127.0.0.1	https://www.cumlouder.com/
