@@ -1,5 +1,5 @@
 # Healing me
-# This file will NOT protect you against malicious domains
+# This file will NOT protect you against malicious domains but can you protect your mind :))
 #
 127.0.0.1 localhost #IPv4 localhost
 ::1 localhost #IPv6 localhost
