@@ -16,10 +16,8 @@
 ::1         chaturbate.com/  
 127.0.0.1   www.porndish.com/
 ::1         www.porndish.com/        
-127.0.0.1   www.pornhub.com/
-::1         www.pornhub.com/
-127.0.0.1   www.porndish.com/  
-::1         www.porndish.com/       
+127.0.0.1   es.pornhub.com
+::1         es.pornhub.com 
 127.0.0.1   es.spankbang.com/
 ::1         es.spankbang.com/
 127.0.0.1   hqporner.com/
